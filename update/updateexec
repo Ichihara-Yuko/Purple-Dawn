@@ -1,0 +1,14 @@
+[Rename]
+
+[Delete]
+INI\battlefs.ini
+
+
+[RenameFolder]
+
+[RenameAndMerge]
+
+[DeleteFolderIfEmpty]
+
+[ForceDeleteFolder]
+
